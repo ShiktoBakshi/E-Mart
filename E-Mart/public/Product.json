@@ -1,0 +1,295 @@
+
+[
+  {
+    "id": 1,
+    "name": "16GB DDR4 RAM",
+    "category": "RAM",
+    "image": "https://i.ibb.co.com/gFvqB5wJ/Whats-App-Image-2025-11-24-at-8-36-10-AM-2.jpg",
+    "price": 59.99,
+    "old_price": 79.99,
+    "discount": "25%",
+    "selling": 1200,
+    "like": 450,
+    "rating": 4.7,
+    "stock": 34,
+    "details": {
+      "type": "DDR4",
+      "capacity": "16GB (8GBx2)",
+      "speed": "3200MHz",
+      "voltage": "1.35V",
+      "features": "High-performance heat spreader, XMP 2.0 support"
+    }
+  },
+  {
+    "id": 2,
+    "name": "1TB NVMe SSD",
+    "category": "Storage",
+    "image": "https://i.ibb.co.com/4w38B6Zz/Whats-App-Image-2025-11-24-at-8-36-10-AM-1.jpg",
+    "price": 89.99,
+    "old_price": 129.99,
+    "discount": "31%",
+    "selling": 980,
+    "like": 510,
+    "rating": 4.8,
+    "stock": 18,
+    "details": {
+      "type": "NVMe M.2",
+      "capacity": "1TB",
+      "read_speed": "3500 MB/s",
+      "write_speed": "3300 MB/s",
+      "features": "Samsung V-NAND, TurboWrite Technology"
+    }
+  },
+  {
+    "id": 3,
+    "name": "2TB HDD",
+    "category": "Storage",
+    "image": "https://i.ibb.co.com/ZRMdnxrn/Whats-App-Image-2025-11-24-at-8-36-10-AM.jpg",
+    "price": 54.99,
+    "old_price": 69.99,
+    "discount": "21%",
+    "selling": 760,
+    "like": 320,
+    "rating": 4.5,
+    "stock": 60,
+    "details": {
+      "type": "HDD",
+      "capacity": "2TB",
+      "speed": "5400 RPM",
+      "cache": "256MB",
+      "features": "Suitable for everyday computing & storage"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Wireless Keyboard",
+    "category": "Accessories",
+    "image": "https://i.ibb.co.com/HL25SWHc/Whats-App-Image-2025-11-24-at-8-36-09-AM-3.jpg",
+    "price": 29.99,
+    "old_price": 39.99,
+    "discount": "25%",
+    "selling": 2100,
+    "like": 890,
+    "rating": 4.6,
+    "stock": 44,
+    "details": {
+      "connection": "Bluetooth",
+      "battery": "2x AAA (2-year life)",
+      "compatibility": "Windows, Mac, Android, iOS",
+      "features": "Compact design, multi-device switch"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Gaming Mouse",
+    "category": "Accessories",
+    "image": "https://i.ibb.co.com/Zz67fDxQ/Whats-App-Image-2025-11-24-at-8-36-09-AM-2.jpg",
+    "price": 49.99,
+    "old_price": 69.99,
+    "discount": "29%",
+    "selling": 1500,
+    "like": 730,
+    "rating": 4.7,
+    "stock": 27,
+    "details": {
+      "sensor": "20K DPI Optical Sensor",
+      "buttons": "8 Programmable",
+      "connection": "Wired USB",
+      "features": "RGB lighting, ergonomic grip"
+    }
+  },
+  {
+    "id": 6,
+    "name": "B550 Motherboard",
+    "category": "Motherboard",
+    "image": "https://i.ibb.co.com/whN5bQw5/Whats-App-Image-2025-11-24-at-8-35-37-AM.jpghttps://i.ibb.co.com/whN5bQw5/Whats-App-Image-2025-11-24-at-8-35-37-AM.jpg",
+    "price": 109.99,
+    "old_price": 139.99,
+    "discount": "21%",
+    "selling": 520,
+    "like": 210,
+    "rating": 4.6,
+    "stock": 16,
+    "details": {
+      "socket": "AM4",
+      "chipset": "B550",
+      "form_factor": "Micro ATX",
+      "memory_support": "Up to 128GB DDR4",
+      "features": "PCIe 4.0, M.2 slots, USB 3.2"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Intel i5 Processor",
+    "category": "Processor",
+    "image": "https://i.ibb.co.com/5XwcZFgz/Whats-App-Image-2025-11-24-at-8-36-09-AM-1.jpg",
+    "price": 159.99,
+    "old_price": 189.99,
+    "discount": "16%",
+    "selling": 870,
+    "like": 410,
+    "rating": 4.8,
+    "stock": 22,
+    "details": {
+      "cores": 6,
+      "threads": 12,
+      "base_clock": "2.5GHz",
+      "boost_clock": "4.4GHz",
+      "features": "Intel 12th Gen, LGA1700 socket"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Ryzen 5 Processor",
+    "category": "Processor",
+    "image": "https://i.ibb.co.com/35STMLgh/Whats-App-Image-2025-11-24-at-8-36-09-AM.jpg",
+    "price": 189.99,
+    "old_price": 249.99,
+    "discount": "24%",
+    "selling": 940,
+    "like": 480,
+    "rating": 4.9,
+    "stock": 19,
+    "details": {
+      "cores": 6,
+      "threads": 12,
+      "base_clock": "3.7GHz",
+      "boost_clock": "4.6GHz",
+      "features": "Zen 3 architecture, AM4 socket"
+    }
+  },
+  {
+    "id": 9,
+    "name": "GTX 1660 Super GPU",
+    "category": "Graphics Card",
+    "image": "https://i.ibb.co.com/jZxfByNH/Whats-App-Image-2025-11-24-at-8-36-08-AM-1.jpg",
+    "price": 239.99,
+    "old_price": 279.99,
+    "discount": "14%",
+    "selling": 600,
+    "like": 350,
+    "rating": 4.7,
+    "stock": 14,
+    "details": {
+      "memory": "6GB GDDR6",
+      "ports": "HDMI, DisplayPort",
+      "cooling": "Dual fan",
+      "features": "Excellent 1080p performance"
+    }
+  },
+  {
+    "id": 10,
+    "name": "RTX 3060 GPU",
+    "category": "Graphics Card",
+    "image": "https://i.ibb.co.com/PsbwM3tg/Whats-App-Image-2025-11-24-at-8-36-08-AM.jpg",
+    "price": 349.99,
+    "old_price": 429.99,
+    "discount": "19%",
+    "selling": 480,
+    "like": 300,
+    "rating": 4.8,
+    "stock": 10,
+    "details": {
+      "memory": "12GB GDDR6",
+      "clock_speed": "Boost 1867 MHz",
+      "cooling": "Triple-fan",
+      "features": "Ray tracing, DLSS support"
+    }
+  },
+  {
+    "id": 11,
+    "name": "RGB CPU Cooler",
+    "category": "Cooling",
+    "image": "https://i.ibb.co.com/gFvqB5wJ/Whats-App-Image-2025-11-24-at-8-36-10-AM-2.jpghttps://i.ibb.co.com/gFvqB5wJ/Whats-App-Image-2025-11-24-at-8-36-10-AM-2.jpg",
+    "price": 39.99,
+    "old_price": 49.99,
+    "discount": "20%",
+    "selling": 1100,
+    "like": 510,
+    "rating": 4.6,
+    "stock": 33,
+    "details": {
+      "type": "Air Cooler",
+      "fan_size": "120mm",
+      "compatibility": "Intel & AMD sockets",
+      "features": "ARGB lighting, improved heat pipes"
+    }
+  },
+  {
+    "id": 12,
+    "name": "650W Power Supply",
+    "category": "Power Supply",
+    "image": "https://i.ibb.co.com/tNNHmLm/Whats-App-Image-2025-11-24-at-8-35-38-AM.jpg",
+    "price": 69.99,
+    "old_price": 89.99,
+    "discount": "22%",
+    "selling": 740,
+    "like": 320,
+    "rating": 4.7,
+    "stock": 28,
+    "details": {
+      "wattage": "650W",
+      "certification": "80+ Bronze",
+      "modularity": "Semi-modular",
+      "features": "Quiet operation, reliable components"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Mid Tower PC Case",
+    "category": "Casing",
+    "image": "https://i.ibb.co.com/rKQ2xtq0/Whats-App-Image-2025-11-24-at-8-35-37-AM-2.jpghttps://i.ibb.co.com/rKQ2xtq0/Whats-App-Image-2025-11-24-at-8-35-37-AM-2.jpg",
+    "price": 79.99,
+    "old_price": 99.99,
+    "discount": "20%",
+    "selling": 530,
+    "like": 240,
+    "rating": 4.5,
+    "stock": 12,
+    "details": {
+      "type": "Mid Tower",
+      "material": "Steel & tempered glass",
+      "cooling": "2 pre-installed fans",
+      "features": "Cable management system, front USB-C"
+    }
+  },
+  {
+    "id": 14,
+    "name": "24-inch 144Hz Monitor",
+    "category": "Monitor",
+    "image": "https://i.ibb.co.com/DPHCK1vF/Whats-App-Image-2025-11-24-at-8-35-39-AM.jpg",
+    "price": 169.99,
+    "old_price": 219.99,
+    "discount": "23%",
+    "selling": 650,
+    "like": 410,
+    "rating": 4.7,
+    "stock": 21,
+    "details": {
+      "size": "24 inches",
+      "resolution": "1080p",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "features": "1ms response, FreeSync"
+    }
+  },
+  {
+    "id": 15,
+    "name": "128GB USB 3.2 Drive",
+    "category": "Accessories",
+    "image": "https://i.ibb.co.com/PsSr2j3y/Whats-App-Image-2025-11-24-at-8-35-37-AM-1.jpg",
+    "price": 19.99,
+    "old_price": 29.99,
+    "discount": "33%",
+    "selling": 2300,
+    "like": 1220,
+    "rating": 4.6,
+    "stock": 120,
+    "details": {
+      "capacity": "128GB",
+      "interface": "USB 3.2",
+      "speed": "Up to 100MB/s",
+      "features": "Portable, metal casing, keyring loop"
+    }
+  }
+]
